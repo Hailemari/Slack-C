@@ -1,1 +1,1 @@
-# A slock clock
+# A slack clone
