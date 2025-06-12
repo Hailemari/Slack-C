@@ -1,1 +1,1 @@
-# Slack-C
+# A slock clock
